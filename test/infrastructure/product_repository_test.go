@@ -161,7 +161,7 @@ func TestGetProductById(t *testing.T) {
 
 //başka servislere giden structure vs gibi şeyleri infrastructure da test ediyoruz
 
-// integration test
+// integration tests
 /*
 func TestAdd(t *testing.T) {
 	t.Run("Test Add", func(t *testing.T) {
